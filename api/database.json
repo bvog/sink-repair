@@ -1,0 +1,41 @@
+{
+    "plumbers": [],
+    "completions": [],
+    "requests": [
+        {
+            "id": 1,
+            "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+            "address": "34445 Bianka Ports",
+            "budget": 400,
+            "neededBy": "2021-08-27"
+        },
+        {
+            "id": 2,
+            "description": "Clogged toilet.",
+            "address": "155 Isabelle Road",
+            "budget": 250,
+            "neededBy": "2021-07-15"
+        },
+        {
+            "id": 3,
+            "description": "Sink overflow",
+            "address": "275 Sloth Drive",
+            "budget": 150,
+            "neededBy": "2021-06-05"
+        },
+        {
+            "id": 4,
+            "description": "Black water in sink",
+            "address": "67 Hill Street",
+            "budget": 25,
+            "neededBy": "2021-04-15"
+        },
+        {
+            "id": 5,
+            "description": "Toilet overflowing",
+            "address": "55 Beauty Blvd",
+            "budget": 550,
+            "neededBy": "2021-02-10"
+        }
+    ]
+}
