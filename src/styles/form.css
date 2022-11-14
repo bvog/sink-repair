@@ -1,0 +1,51 @@
+.request_list {
+   border: 1px dotted black;
+   display: flex;
+   height: 2rem;
+   width: 400px;
+   margin: .5rem;
+   padding: .5rem;
+
+}
+
+.request_description {
+    justify-content: center;
+    width: 250px;
+}
+
+.request_delete {
+    margin-right: .5rem;
+    background-color: green;
+    color: white;
+    font-size: 12px;
+    border: 2px line yellow;
+    border-radius: .5rem;
+    border-style: ridge;
+}
+
+
+.serviceForm {
+    /*display: flex;*/
+    flex-direction: column;
+    width: 1000px;
+}
+
+.serviceRequests {
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+}
+
+.button {
+    margin: 1rem 0 2rem 2rem;
+    padding: 0.5rem;
+    background-color: rgb(123, 160, 238);
+    color: rgb(241, 241, 233);
+    font-size: 1rem;
+}
+
+
+
+field {
+    width: 500px
+}

@@ -1,41 +1,84 @@
 {
-    "plumbers": [],
-    "completions": [],
-    "requests": [
-        {
-            "id": 1,
-            "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
-            "address": "34445 Bianka Ports",
-            "budget": 400,
-            "neededBy": "2021-08-27"
-        },
-        {
-            "id": 2,
-            "description": "Clogged toilet.",
-            "address": "155 Isabelle Road",
-            "budget": 250,
-            "neededBy": "2021-07-15"
-        },
-        {
-            "id": 3,
-            "description": "Sink overflow",
-            "address": "275 Sloth Drive",
-            "budget": 150,
-            "neededBy": "2021-06-05"
-        },
-        {
-            "id": 4,
-            "description": "Black water in sink",
-            "address": "67 Hill Street",
-            "budget": 25,
-            "neededBy": "2021-04-15"
-        },
-        {
-            "id": 5,
-            "description": "Toilet overflowing",
-            "address": "55 Beauty Blvd",
-            "budget": 550,
-            "neededBy": "2021-02-10"
-        }
-    ]
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [],
+  "requests": [
+    {
+      "id": 1,
+      "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "id": 2,
+      "description": "Clogged toilet.",
+      "address": "155 Isabelle Road",
+      "budget": 250,
+      "neededBy": "2021-07-15"
+    },
+    {
+      "id": 3,
+      "description": "Sink overflow",
+      "address": "275 Sloth Drive",
+      "budget": 150,
+      "neededBy": "2021-06-05"
+    },
+    {
+      "id": 4,
+      "description": "Black water in sink",
+      "address": "67 Hill Street",
+      "budget": 25,
+      "neededBy": "2021-04-15"
+    },
+    {
+      "id": 5,
+      "description": "Toilet overflowing",
+      "address": "55 Beauty Blvd",
+      "budget": 550,
+      "neededBy": "2021-02-10"
+    },
+    {
+      "description": "Floating bathtub",
+      "address": "22 Soapsuds Way",
+      "budget": "14",
+      "neededBy": "2022-11-12",
+      "id": 6
+    },
+    {
+      "description": "Floating bathtub",
+      "address": "22 Soapsuds Way",
+      "budget": "14",
+      "neededBy": "2022-11-12",
+      "id": 7
+    },
+    {
+      "description": "Cat stuck in toilet",
+      "address": "555 Pottery Street",
+      "budget": "1000",
+      "neededBy": "2022-11-22",
+      "id": 8
+    },
+    {
+      "description": "Baby stuck in kitchen sink",
+      "address": "54 Sixth Street",
+      "budget": "2",
+      "neededBy": "2022-12-01",
+      "id": 9
+    },
+    {
+      "requestId": 1,
+      "plumberId": 1,
+      "date_created": "Fri Nov 11 2022",
+      "id": 10
+    }
+  ]
 }
